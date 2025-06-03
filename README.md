@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ingrid Machado.
-- 👩‍💻 Studing Analysis and Software Development
+- 👩‍💻 Studing Software Analysis and Development.
 - 📈 I’m looking to collaborate on basic projects wich I could use what I've learned and practice.
 - 📫 How to reach me: ingrid.melo27@gmail.com
 - ⚡ Additional facts: I love reading, new challenges and trainning crossfit.
