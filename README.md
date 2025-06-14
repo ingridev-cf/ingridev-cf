@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ingrid Machado.
+#👋 Hi, I’m Ingrid Machado.
 - 👩‍💻 Studing System Analysis and Development.
 - 📈 I’m looking to collaborate on basic projects wich I could use what I've learned and practice.
 - 📫 How to reach me: ingrid.melo27@gmail.com
