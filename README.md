@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F3533A&width=435&lines=Always+learning+%F0%9F%91%A9%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB;Pressure+is+a+privilege.;Games%2C+coffee+and+crossfit+lover+%3C3)](https://git.io/typing-svg)
 
 ## About
-Future software developer in the making 🚀 | Currently studying Systems Analisys and Development | Building the foundation to become a skilled software developer | Turning coffee and curiosity into code and having fun along the way!
+Future software developer in the making 🚀 | Currently studying Systems Analisys and Development | Building the foundation to become a skilled software developer | Turning coffee and curiosity into code | Having fun along the way!
 
 ## Skills/tools
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
