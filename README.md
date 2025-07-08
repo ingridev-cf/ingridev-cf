@@ -11,6 +11,7 @@ Future software developer in the making 🚀 | Currently studying Systems Analis
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEUUSERNAME)
+![Linux](https://img.shields.io/badge/Linux-CD8D00?style=for-the-badge&logo=linux&logoColor=white)
 
 ## Now learning
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
